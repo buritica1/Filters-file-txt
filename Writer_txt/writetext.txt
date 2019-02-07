@@ -1,0 +1,32 @@
+Palabras con t/T
+Terremoto
+tiempo
+texto
+tiene
+textos
+textos
+
+Palabras de 5 letras
+hecho
+texto
+sitio
+punto
+Lorem
+Ipsum
+tiene
+menos
+aqu�,
+Estos
+hacen
+puede
+leer.
+Ababa
+
+Palabras Palindromos
+Ababa
+Abalaba
+aibofobia
+Ana
+ala
+arenera
+arepera
